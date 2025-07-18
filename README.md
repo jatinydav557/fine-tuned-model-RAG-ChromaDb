@@ -70,10 +70,9 @@ Place the following in the root directory:
 ### 5. Launch the App
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
-Navigate to `http://localhost:7860` to use the app.
 
 ---
 
